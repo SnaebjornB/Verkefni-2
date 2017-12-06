@@ -8,5 +8,7 @@ int main()
 
     wagesui.menu();
 
+    cout << "hihi";
+
     return 0;
 }
